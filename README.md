@@ -1,6 +1,6 @@
-# Sherry_(Yidan Huang)_homework
+# Python Homework
 
-## Homework 
+## By Sherry (Yidan Huang)
 
-* Homework1_Excel Charts: Kickstarter report
-** 3 files
+* PyBank and PyPoll
+** ? files
