@@ -1,6 +1,6 @@
 # Python Challenge (Homework)
 
-## By Sherry (Yidan Huang)
+## By Sherry (Yidan) Huang
 
 * PyBank  
 ** main.py  
