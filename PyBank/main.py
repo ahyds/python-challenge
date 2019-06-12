@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import csv
 
@@ -65,7 +64,6 @@ with open(bank_csv,newline="") as csvfile:
 
 
 
-=======
 import os
 import csv
 
@@ -132,4 +130,3 @@ with open(bank_csv,newline="") as csvfile:
 
 
 
->>>>>>> f3c07e62e4d618798c0cd809288eeaa5e50c3fae
